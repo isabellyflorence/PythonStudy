@@ -16,7 +16,6 @@ tipo sem tipo, antes de recebermos o valor final.
 OBS: O tipo None em python é sempre considerado como False.
 
 """
-
 numeros = None
 print(type(numeros))
 print(numeros)
